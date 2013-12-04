@@ -2,4 +2,8 @@ added r13
 
 added r13 1
 
+<<<<<<< HEAD
 from local 1
+=======
+from server 1
+>>>>>>> composeOrigin/compose-1
